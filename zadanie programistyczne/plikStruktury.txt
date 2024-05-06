@@ -1,0 +1,2 @@
+0 km>250.0 1 SuperSamochody % korzeń
+1 nM<350.0 SuperSamochody SamochodMiejski

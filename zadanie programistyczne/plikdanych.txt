@@ -1,0 +1,7 @@
+km Nm % dwa atrybuty konie mechaniczne i Newtono-metry
+200.10 300.02
+600.9 1000.20
+59.05 100.20
+700.0 1300.19
+100.90 251.10
+138.09 150.94
